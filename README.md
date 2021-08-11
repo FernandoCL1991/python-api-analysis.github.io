@@ -1,7 +1,7 @@
 # Analysis with API's, Matplotlib, Jupyter Notebook, Pandas, Google Places API (Data Wrangling, Data Manipulation, API's)
 
 
-The purpose of this website is to explain how different variables can affect the behaviour of the weather in different cities around the world.
+The purpose of this website is to showcase how different weather variables can affect the behaviour of the climate in different cities around the world.
 
 The analysis was made by retrieving, manipulating and analyzing an open-to-public API called "The Weather API".
 
